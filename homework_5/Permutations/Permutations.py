@@ -1,5 +1,5 @@
 from typing import List
-from Tracer import tracer
+from homework_5.Tracer.tracer import tracer
 
 @tracer
 def permute(nums: List[int]) -> List[List[int]]:
